@@ -1,0 +1,19 @@
+<!---
+- 👋 Hi, I’m @vividliu96
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+vividliu96/vividliu96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+- 👋 Hi there, My name is Vivid!
+- 📚 I'm a graduate student pursuing a Master's degree in Business Analytics.
+- 🌟 Recently completed the Google Data Analytics Professional Certificate.
+- 📈 Actively seeking opportunities to apply my expertise in marketing, business acumen, and data analytics. 
+- 👩🏻‍💻 Top skills: SQL, Python, Tableau, Problem Diagnosis, Data Collection / Cleaning / Analysis / Modeling / Visualization.
